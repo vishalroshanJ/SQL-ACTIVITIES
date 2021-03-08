@@ -14,7 +14,7 @@ Activity on CURSOR - TRigger
 Activity on Demo on Data base using Java Connectivity
 
 ============================================================================
-# Mini Project (CRUD OPERATION for 2 tables) (Day3
+# Mini Project (CRUD OPERATION for 2 tables) (Day3)
                                                        MiniProject Folder Structure
 ===========================================================================
 
