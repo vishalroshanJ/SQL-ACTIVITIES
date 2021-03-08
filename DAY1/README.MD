@@ -3,6 +3,7 @@
                                                  Write the query for the following tables
 Create the table name: productions
 Field names
+
 ![alt text](https://github.com/vishalroshanJ/SQL-ACTIVITIES/blob/main/DAY1/table1.PNG)
 ![alt text](https://github.com/vishalroshanJ/SQL-ACTIVITIES/blob/main/DAY1/table2.PNG)
 ![alt text](https://github.com/vishalroshanJ/SQL-ACTIVITIES/blob/main/DAY1/image.png)
